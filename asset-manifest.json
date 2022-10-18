@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/countdown/static/css/main.9065d41a.css",
+    "main.js": "/countdown/static/js/main.4af67baf.js",
+    "static/media/gift.jpeg": "/countdown/static/media/gift.6170c9d31299e500de0f.jpeg",
+    "index.html": "/countdown/index.html",
+    "main.9065d41a.css.map": "/countdown/static/css/main.9065d41a.css.map",
+    "main.4af67baf.js.map": "/countdown/static/js/main.4af67baf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9065d41a.css",
+    "static/js/main.4af67baf.js"
+  ]
+}
